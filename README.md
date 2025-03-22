@@ -8,3 +8,7 @@
 <p>V - View</p>
 <p>M - Controller</p>
 
+
+<h1>ScreenShots</h1>
+<img src="2.png">
+<img src="1.png">
