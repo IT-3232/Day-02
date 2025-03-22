@@ -14,6 +14,6 @@ public class AppController {
 	
 	@GetMapping("/name")
 	public String myMessage2() {
-		return "My Name is SpringBoot";
+		return "My name is THILAN KAVISHKA";
 	}
 }
